@@ -1,0 +1,12 @@
+{
+  "export_job_id": "51ae9edc-ee3f-4c93-ae16-48c93b2cfa8b",
+  "id_short": 690765,
+  "published_at": "2026-04-15T19:04:15Z",
+  "repo_name": "all-restaurants-in-boulder-metro-colorado-us-sample-690765",
+  "sample_asset_name": "beamstation_690765_restaurants-us-boulderco_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/690765/beamstation_690765_restaurants-us-boulderco_SAMPLE_DIST.csv",
+  "sample_records": 82,
+  "sample_sha256": "d7b2b5964459755c064fa0437db6f109a985075e16a17c9aa817336f91db683d",
+  "sample_size_bytes": 326794,
+  "total_records": 827
+}
